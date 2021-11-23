@@ -104,7 +104,7 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 ![image](https://user-images.githubusercontent.com/94336132/142990604-0debd3de-c2a5-426f-82bd-21b32d25bcaa.png)
 将以下代码写入hosts文件中：
 '''
-# GitHub
+\# GitHub
 140.82.114.4 github.com
 140.82.114.4 gist.github.com
 185.199.108.153 assets-cdn.github.com
@@ -121,7 +121,7 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 151.101.108.133 avatars6.githubusercontent.com
 151.101.108.133 avatars7.githubusercontent.com
 151.101.108.133 avatars8.githubusercontent.com
-# Github End
+\# Github End
 '''
 然后再进行访问就解决了！！
 
