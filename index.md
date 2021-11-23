@@ -2,9 +2,14 @@
 ###### github的注册
 ***1.如何打开github***
 在浏览器搜索github或者直接输入https://github.com/进入官网
-进入之后会显示这个画面![1](https://github.com/namelesssheep/picture/blob/main/%E6%8D%95%E8%8E%B72.PNG)
+进入之后会显示这个画面!![捕获2](https://user-images.githubusercontent.com/94816263/142983728-d70b194f-69db-4dcf-8747-6217a39b4272.PNG)
+
 点击右上角sign up进行注册
 填写用户名注册邮箱和密码
+
+![捕获3](https://user-images.githubusercontent.com/94816263/142984313-a2b4d759-4967-4c0b-b2c1-646dd0d366ab.PNG)
+
+![捕获2](https://user-images.githubusercontent.com/94816263/142983880-355bc6a9-f2f3-4de3-a340-9fcde68481ef.PNG)
 
 **昵称:昵称要合法且没有被他人使用过,如果被使用过会出现Username is already taken.只能换一个昵称注册,昵称只能出现字母、数字、短横线，不能使用下划线。并且开头也不能使用短横线(-).也不能使用中文昵称.**
 
@@ -12,41 +17,49 @@
 
 **密码:至少7个字符,它会提示你安全程度,越复杂越安全,但前提要记得住!!**
 
-![2](https://github.com/namelesssheep/picture/blob/main/%E6%8D%95%E8%8E%B73.PNG)
+![4](https://user-images.githubusercontent.com/94816263/142983925-af0191fe-fdfe-42ab-a8d6-dc885a21100a.PNG)
+
 
 注册完成后会提示你验证邮箱,登录你的邮箱以后查看验证码,填写验证码完成验证.
 以上步骤都完成了以后点击sign in登录你的GitHub账号
 
-![3](https://github.com/namelesssheep/picture/blob/main/4.PNG)
+
 
 ***2.开始建库***
 
 点击左边上方绿色的new符号
 
-![4](https://github.com/namelesssheep/picture/blob/main/5.PNG)
+![5](https://user-images.githubusercontent.com/94816263/142983994-730ce112-6ba6-40db-aff6-35964115fe38.PNG)
+
 
 弹出create repository 这个界面,创建名字,接着选择public(公开的)或者private(私人的),最后点击最下方的create repository,就完成建仓库啦!
 
-![5](https://github.com/namelesssheep/picture/blob/main/6.PNG)
+![6](https://user-images.githubusercontent.com/94816263/142984061-b3dace41-5d1a-4c0d-8336-92b297da7b61.PNG)
+
 
 ***3.仓库的文件上传***
 
 新建一个仓库,和上面那个步骤一样.创建完以后,显示这个界面
 
-![6](https://github.com/namelesssheep/picture/blob/main/7.PNG)
+![6](https://user-images.githubusercontent.com/94816263/142984121-7d3d863a-d05f-4f4b-a666-81b6146bd335.PNG)
+
 
 点击第二行的README按钮,然后什么都不用填,点击最下面的commit new file
 
-![7](https://github.com/namelesssheep/picture/blob/main/8.PNG)
+![7](https://user-images.githubusercontent.com/94816263/142984147-fac0ce82-a439-4f8a-9501-f678485ee634.PNG)
+![8](https://user-images.githubusercontent.com/94816263/142984181-f9ac2830-9d8a-4003-8fd9-874bf3c30c78.PNG)
+
 
 然后点击add file,选择upload file.
 
-![8](https://github.com/namelesssheep/picture/blob/main/9.PNG)
-![9](https://github.com/namelesssheep/picture/blob/main/10.PNG)
+![9](https://user-images.githubusercontent.com/94816263/142984232-302bb7c9-24e3-4598-8fb1-7d61484cde15.PNG)
+![10](https://user-images.githubusercontent.com/94816263/142984245-5bedc751-a993-4658-b99d-58dedeac8a18.PNG)
+
 
 选择choose your files就可以上传图片等文件,最后点击commit changes就完成上传了.
 
-![10](https://github.com/namelesssheep/picture/blob/main/11.PNG)
+![11](https://user-images.githubusercontent.com/94816263/142984263-b7ffad42-5b97-48f5-9c30-33b09fdb4c4f.PNG)
+
 
 ***4.仓库的文件下载***
 
@@ -63,4 +76,27 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 
 ***3.确定用例***
 
-在本系统中,游客可以注册
+在本系统中,游客可以注册账号查看git hub主页；注册用户可以登录、注册、new、New repository (project)、Import repository、new organization、new gist、your profile、your codespaces、your gists、Your stars、already、your project、Upqrade 、your repositories、feature preview、help、settings、sign out、下载、上传、查询、修改代码、删除、搜索其他用户公开资源代码、留言、下载代码、查看库等；管理员可以维护数据库、用户管理等；github数据库系统可以存储用户数据等。
+
+![确定参与者](https://user-images.githubusercontent.com/94816263/142986607-ff57f968-06cf-4fa1-9e1a-c49dd42a401c.jpg)
+
+![确定用例](https://user-images.githubusercontent.com/94816263/142986634-5ca46ebb-09b8-4b83-ac1f-7daa100c118d.jpg)
+
+![系统最终用例图](https://user-images.githubusercontent.com/94816263/142986643-d9237e8f-ebdc-4299-80c8-4405ef403a84.png)
+
+***用例图说明（部分）***
+
+![@9T~(G1832UR_B%U$PTG6WV](https://user-images.githubusercontent.com/94816263/142987943-9740333c-3016-41c6-903d-4f6071f62653.jpg)
+![`A80 E494V68V`S 2D Q{C2](https://user-images.githubusercontent.com/94816263/142987956-de69c603-dd83-4834-9a81-cbb600de7859.jpg)
+![JMT3L B`010Z7U{KS9L4TK8](https://user-images.githubusercontent.com/94816263/142988084-bfa795a2-4016-4ccd-8147-0799aed2bccb.jpg)
+
+
+# 遇到了一个大问题
+
+***图片上传了在网页打开时无法显示***
+
+在学习使用GitHub中，查询了如何上传图片，网上教程上面说的时候，新建一个仓库，然后上传图片就可以了，写博客的时候就可以复制仓库图片的链接使用那张图片，但是写完博客了以后再打开博客，就只能先是文字不能显示图片，根据网上教程，说是域名污染问题，但是修改了文件也无济于事，甚至连github都无法打开。和同学讨论了以后发现只要复制图片在写博客的时候粘贴就可以了就可以自动生成图片的代码和地址，最终解决了这个问题，github还是很人性化的！！！
+
+
+
+
